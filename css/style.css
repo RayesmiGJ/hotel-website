@@ -1,0 +1,60 @@
+.ban1{
+    background-image:url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    height: 240px;
+    background-size: cover;
+}
+    .txt{
+        text-align:center;
+        text-decoration:none;
+         color:rgb(196, 196, 36);
+         font-size:large; 
+         margin-right: 10px;
+         float:right;   
+    }
+    .main{
+        width:100%;
+    }
+    .sub{
+        width:50%;
+        float: left;
+    }
+    .gap{
+        width:99%;
+    }
+    .sub1{
+        width:25%;
+        float:left;
+    }
+    .sub2{
+        width:33.3%;
+        float:left;
+    }
+    .sub3{
+        width:40%;
+        float:left;
+    }
+    .sub4{
+        width:60%;
+        float:left;
+    }
+    .sub5{
+        width:20%;
+        float:left;
+    }
+    .sub6{
+        width:25%;
+        float:left;
+    }
+    .gap1{
+        width:150;
+        height:75;
+    }
+    .gap2{
+        width:340;
+        height:85;
+    }
+    .gap3{
+        width:245;
+        height:80;
+    }
